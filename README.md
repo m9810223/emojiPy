@@ -11,7 +11,7 @@
 - Download & Install (recommended)
   ```shell
   wget https://raw.githubusercontent.com/m9810223/emojiPy/master/emojiPy \
-      -O emojiPy && chmod +x $_ && cp $_ /usr/local/bin
+      -O /tmp/emojiPy && chmod +x $_ && cp $_ /usr/local/bin
   ```
 - or Clone & Build & Install
   ```shell
@@ -38,16 +38,14 @@ cat test.gitlog | time emojiPy > /dev/null
 alias glol="git log --graph --pretty='%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%ar) %C(bold blue)<%an>%Creset' --color | emojiPy | less"
 ```
 
-## CLI Options
-
-### List All Supported Emojies
+## CLI
 
 ```shell
-emojiPy -l
-```
+Faster 🚀 Python 🐍 emojify 🤗
 
-### Help
+Usage:  emojiPy [OPTIONS] [INPUT]
 
-```shell
-emojiPy -h
+Options:
+    -l, --list     List all emojies.
+    -r, --random   Print a random emoji.
 ```
