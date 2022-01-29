@@ -1,9 +1,9 @@
 PY:=python
-obj:=emojies emojiPy
+obj:=update_emojies emojiPy
 all: clean $(obj)
+	@chmod +x emojiPy
 %: %.py
 	@$(PY) $@.py
-	@chmod +x $@
 clean:
 	@rm -f $(obj)
 test: all

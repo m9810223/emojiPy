@@ -2,7 +2,6 @@
 from sys import stdin, stdout, argv
 from re import findall
 
-
 emojies = {
     ":grinning:": "\U0001f600",
     ":smiley:": "\U0001f603",
@@ -1860,7 +1859,6 @@ emojies = {
     ":scotland:": "\U0001f3f4\U000e0067\U000e0062\U000e0073\U000e0063\U000e0074\U000e007f",
     ":wales:": "\U0001f3f4\U000e0067\U000e0062\U000e0077\U000e006c\U000e0073\U000e007f",
 }
-
 
 if len(argv) == 1:
     for line in stdin:
