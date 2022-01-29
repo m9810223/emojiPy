@@ -8,10 +8,10 @@
 
 ## Install
 
-- Download & Install
+- Download & Install (recommended)
   ```shell
   wget https://raw.githubusercontent.com/m9810223/emojiPy/master/emojiPy \
-      -O emojiPy && chmod +x $_ && mv $_ /usr/local/bin
+      -O emojiPy && chmod +x $_ && cp $_ /usr/local/bin
   ```
 - or Clone & Build & Install
   ```shell
