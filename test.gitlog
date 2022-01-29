@@ -1,0 +1,601 @@
+* 0633fde - (HEAD -> master, origin/master, origin/HEAD) :arrow_up: Bump node-fetch from 2.6.1 to 2.6.7 (#759) (5 days ago) <dependabot[bot]>
+* 4574556 - :arrow_up: Bump lint-staged from 12.1.7 to 12.3.1 (#758) (5 days ago) <dependabot[bot]>
+* 270b7d9 - :arrow_up: Bump @babel/core from 7.16.7 to 7.16.12 (#757) (5 days ago) <dependabot[bot]>
+* e63185e - :arrow_up: Bump @babel/preset-env from 7.16.8 to 7.16.11 (#755) (5 days ago) <dependabot[bot]>
+* b1e1b7e - :arrow_up: Bump @babel/preset-env from 7.16.7 to 7.16.8 (#753) (12 days ago) <dependabot[bot]>
+* 1912854 - :arrow_up: Bump pkg from 5.5.1 to 5.5.2 (#754) (12 days ago) <dependabot[bot]>
+* ac0bba0 - :arrow_up: Bump @babel/cli from 7.16.7 to 7.16.8 (#751) (12 days ago) <dependabot[bot]>
+* b4e1e83 - :arrow_up: Bump lint-staged from 12.1.5 to 12.1.7 (#748) (3 weeks ago) <dependabot[bot]>
+* fca6ac0 - :arrow_up: Bump jest from 27.4.5 to 27.4.7 (#747) (3 weeks ago) <dependabot[bot]>
+* a769854 - 📄 Update `LICENSE` (3 weeks ago) <Carlos Cuesta>
+* 372e916 - :arrow_up: Bump @babel/preset-env from 7.16.5 to 7.16.7 (#743) (4 weeks ago) <dependabot[bot]>
+* 9be0b94 - :arrow_up:  Bump @babel/core from 7.16.5 to 7.16.7 (#745) (4 weeks ago) <dependabot[bot]>
+* f0751bc - :arrow_up:  Bump lint-staged from 12.1.4 to 12.1.5 (#746) (4 weeks ago) <dependabot[bot]>
+* 283d724 - :arrow_up:  Bump @babel/cli from 7.16.0 to 7.16.7 (#744) (4 weeks ago) <dependabot[bot]>
+* b9934aa - :arrow_up:  Bump @babel/preset-flow from 7.16.5 to 7.16.7 (#742) (4 weeks ago) <dependabot[bot]>
+* 2a0514e - :arrow_up: Bump fuse.js from 6.4.6 to 6.5.3 (#740) (5 weeks ago) <dependabot[bot]>
+* 75e050c - :arrow_up: Bump lint-staged from 12.1.3 to 12.1.4 (#741) (5 weeks ago) <dependabot[bot]>
+* 08f164b - :arrow_up: Bump @babel/core from 7.16.0 to 7.16.5 (#739) (6 weeks ago) <dependabot[bot]>
+* 6bfb96c - :arrow_up: Bump @babel/preset-flow from 7.16.0 to 7.16.5 (#737) (6 weeks ago) <dependabot[bot]>
+* 4683241 - :arrow_up: Bump jest from 27.4.4 to 27.4.5 (#738) (6 weeks ago) <dependabot[bot]>
+* 0f9c460 - :arrow_up: Bump lint-staged from 12.1.2 to 12.1.3 (#736) (6 weeks ago) <dependabot[bot]>
+* fba2425 - :arrow_up: Bump @babel/preset-env from 7.16.4 to 7.16.5 (#735) (6 weeks ago) <dependabot[bot]>
+* a3b39df - :arrow_up: Bump jest from 27.4.3 to 27.4.4 (#734) (7 weeks ago) <dependabot[bot]>
+* 081c3b9 - :arrow_up: Bump prettier from 2.5.0 to 2.5.1 (#733) (8 weeks ago) <dependabot[bot]>
+* 6e59362 - :arrow_up: Bump jest from 27.3.1 to 27.4.3 (#732) (8 weeks ago) <dependabot[bot]>
+* ef3d3f7 - :arrow_up: Bump conf from 10.1.0 to 10.1.1 (#731) (8 weeks ago) <dependabot[bot]>
+* e281feb - :arrow_up: Bump pkg from 5.4.1 to 5.5.1 (#729) (9 weeks ago) <dependabot[bot]>
+* 6656a1e - :arrow_up: Bump prettier from 2.4.1 to 2.5.0 (#728) (9 weeks ago) <dependabot[bot]>
+* 2dd5a18 - :arrow_up: Bump lint-staged from 12.0.2 to 12.1.2 (#727) (10 weeks ago) <dependabot[bot]>
+* bd0712d - :arrow_up: Bump lint-staged from 12.0.2 to 12.1.1 (#726) (10 weeks ago) <dependabot[bot]>
+* 4de138c - :arrow_up: Bump conf from 10.0.3 to 10.1.0 (#724) (10 weeks ago) <dependabot[bot]>
+* f321c2d - :arrow_up: Bump @babel/preset-env from 7.16.0 to 7.16.4 (#722) (10 weeks ago) <dependabot[bot]>
+* 9719da7 - 📝 Improve gitmoji-cli commit mode docs (#721) (10 weeks ago) <Carlos Cuesta>
+* da38d4a - :arrow_up: Bump lint-staged from 11.2.6 to 12.0.2 (#718) (3 months ago) <dependabot[bot]>
+* 1d4a2df - 📝 Remove `david-dm` badges (3 months ago) <Carlos Cuesta>
+* 52875db - :arrow_up:  Bump @babel/preset-flow from 7.14.5 to 7.16.0 (#711) (3 months ago) <dependabot[bot]>
+* b8f0f97 - :arrow_up:  Bump @babel/preset-env from 7.15.8 to 7.16.0 (#716) (3 months ago) <dependabot[bot]>
+* 8b37de5 - :arrow_up:  Bump @babel/core from 7.15.8 to 7.16.0 (#715) (3 months ago) <dependabot[bot]>
+* e2e3ea8 - :arrow_up:  Bump @babel/cli from 7.15.7 to 7.16.0 (#714) (3 months ago) <dependabot[bot]>
+* 41ef843 - :arrow_up:  Bump pkg from 5.3.3 to 5.4.1 (#713) (3 months ago) <dependabot[bot]>
+* 520d274 - :arrow_up: Bump lint-staged from 11.2.4 to 11.2.6 (#712) (3 months ago) <dependabot[bot]>
+* e51e094 - :arrow_up: Bump jest from 27.3.0 to 27.3.1 (#710) (3 months ago) <dependabot[bot]>
+* 45ceb87 - :arrow_up: Bump lint-staged from 11.2.3 to 11.2.4 (#709) (3 months ago) <dependabot[bot]>
+* df97d3d - :arrow_up: Bump husky from 7.0.2 to 7.0.4 (#708) (3 months ago) <dependabot[bot]>
+* 24c0b09 - :arrow_up: Bump vm2 from 3.9.3 to 3.9.5 (#707) (3 months ago) <dependabot[bot]>
+* f123781 - :arrow_up: Bump jest from 27.2.5 to 27.3.0 (#706) (3 months ago) <dependabot[bot]>
+* ba614be - :arrow_up: Bump @babel/preset-env from 7.15.6 to 7.15.8 (#703) (4 months ago) <dependabot[bot]>
+* 2b62298 - :arrow_up: Bump jest from 27.2.4 to 27.2.5 (#704) (4 months ago) <dependabot[bot]>
+* 40e6497 - :arrow_up: Bump lint-staged from 11.1.2 to 11.2.3 (#705) (4 months ago) <dependabot[bot]>
+* 8a2b512 - :arrow_up: Bump @babel/core from 7.15.5 to 7.15.8 (#702) (4 months ago) <dependabot[bot]>
+* 7bc9a60 - :arrow_up: Bump inquirer from 8.1.5 to 8.2.0 (#701) (4 months ago) <dependabot[bot]>
+* 6b7b62f - :arrow_up: Bump pkg from 5.3.2 to 5.3.3 (#699) (4 months ago) <dependabot[bot]>
+* fe0f584 - :arrow_up: Bump jest from 27.2.2 to 27.2.4 (#698) (4 months ago) <dependabot[bot]>
+* c560ea6 - (tag: v4.7.0) 🔖 Bump version (4 months ago) <Carlos Cuesta>
+* e514231 - ✨ Print git command if it failed (#681) (4 months ago) <Guillaume Vagner>
+* d3ad2eb - :arrow_up: Bump jest from 27.2.0 to 27.2.2 (#697) (4 months ago) <dependabot[bot]>
+* 603f460 - :arrow_up: Bump tmpl from 1.0.4 to 1.0.5 (#696) (4 months ago) <dependabot[bot]>
+* 7e9388a - :arrow_up: Bump inquirer from 8.1.2 to 8.1.5 (#693) (4 months ago) <dependabot[bot]>
+* e412a2b - :arrow_up: Bump conf from 10.0.2 to 10.0.3 (#694) (4 months ago) <dependabot[bot]>
+* c5933f0 - :arrow_up: Bump prettier from 2.4.0 to 2.4.1 (#691) (4 months ago) <dependabot[bot]>
+* 9743d0c - :arrow_up: Bump @babel/cli from 7.15.4 to 7.15.7 (#695) (4 months ago) <dependabot[bot]>
+* 0117431 - :arrow_up: Bump jest from 27.1.1 to 27.2.0 (#690) (4 months ago) <dependabot[bot]>
+* ae03f9f - :arrow_up: Bump pkg from 5.3.1 to 5.3.2 (#687) (5 months ago) <dependabot[bot]>
+* 1309910 - :arrow_up: Bump @babel/preset-env from 7.15.4 to 7.15.6 (#686) (5 months ago) <dependabot[bot]>
+* 46a8e7a - :arrow_up: Bump jest from 27.1.0 to 27.1.1 (#685) (5 months ago) <dependabot[bot]>
+* e2b55e7 - :arrow_up: Bump prettier from 2.3.2 to 2.4.0 (#684) (5 months ago) <dependabot[bot]>
+* 4703e41 - :arrow_up: Bump @babel/cli from 7.14.8 to 7.15.4 (#677) (5 months ago) <dependabot[bot]>
+* e8a629a - :arrow_up: Bump @babel/preset-env from 7.15.0 to 7.15.4 (#676) (5 months ago) <dependabot[bot]>
+* ccae322 - :arrow_up: Bump @babel/core from 7.15.0 to 7.15.5 (#674) (5 months ago) <dependabot[bot]>
+* 7b0496b - (tag: v4.6.1) ⏪️ Bump ora from 5.4.1 to 6.0.0 (#673) (5 months ago) <Carlos Cuesta>
+* ad67e91 - (tag: v4.6.0) 🔖 Bump version (5 months ago) <Carlos Cuesta>
+* 3cb4e36 - :arrow_up: Bump ora from 5.4.1 to 6.0.0 (#669) (5 months ago) <dependabot[bot]>
+* 3f6616f - :arrow_up: Bump husky from 7.0.1 to 7.0.2 (#671) (5 months ago) <dependabot[bot]>
+* 1b77faf - :arrow_up: Bump jest from 27.0.6 to 27.1.0 (#670) (5 months ago) <dependabot[bot]>
+* d264dc0 - ✨ Support stdout streaming (#668) (5 months ago) <jeremiec>
+* edf1f3b - (tag: v4.5.1) 🔖 Bump version (5 months ago) <Carlos Cuesta>
+* fb40f76 - 🐛 Fix gitmoji url config option (#667) (5 months ago) <Ras>
+* 0ae1774 - :arrow_up: Bump path-parse from 1.0.6 to 1.0.7 (#665) (6 months ago) <dependabot[bot]>
+* 3d8850c - :arrow_up: Bump @babel/core from 7.14.8 to 7.15.0 (#662) (6 months ago) <dependabot[bot]>
+* 3b9f0ec - :arrow_up: Bump lint-staged from 11.1.1 to 11.1.2 (#664) (6 months ago) <dependabot[bot]>
+* f260fe2 - :arrow_up: Bump @babel/preset-env from 7.14.9 to 7.15.0 (#663) (6 months ago) <dependabot[bot]>
+* 8c25f0b - :arrow_up: Bump conf from 10.0.1 to 10.0.2 (#661) (6 months ago) <dependabot[bot]>
+* 1592715 - (tag: v4.5.0) 🔖 Bump version (6 months ago) <Carlos Cuesta>
+* 5ace20a - 🚸 Improve `commit` command errors output (#660) (6 months ago) <Carlos Cuesta>
+* 8bbb214 - (tag: v4.4.1) 🔖 Bump version (6 months ago) <Carlos Cuesta>
+* 1262cf2 - 🐛 Fix `getEmojis` from cache when is empty (#659) (6 months ago) <Carlos Cuesta>
+* c86b4ac - (tag: v4.4.0) 🔖 Bump version (6 months ago) <Carlos Cuesta>
+* f19e616 - ✨ Update command prints updated emojis (#657) (6 months ago) <Carlos Cuesta>
+* fd530b8 - (tag: v4.3.0) 🔖 Bump version (6 months ago) <Carlos Cuesta>
+* 3aa7a0d - ✨ Introduce option flags for `commit` commands (#656) (6 months ago) <Carlos Cuesta>
+* cb9f76b - :arrow_up: Bump @babel/preset-env from 7.14.8 to 7.14.9 (#654) (6 months ago) <dependabot[bot]>
+* ccbe0f5 - :arrow_up: Bump chalk from 4.1.1 to 4.1.2 (#653) (6 months ago) <dependabot[bot]>
+* 2275ea0 - :arrow_up: Bump codecov from 3.8.1 to 3.8.3 (#652) (6 months ago) <dependabot[bot]>
+* 545fe3c - :arrow_up: Bump pkg from 5.3.0 to 5.3.1 (#650) (6 months ago) <dependabot[bot]>
+* 548c8f8 - :arrow_up: Bump @babel/preset-env from 7.14.7 to 7.14.8 (#649) (6 months ago) <dependabot[bot]>
+* 7f3878a - :arrow_up: Bump @babel/core from 7.14.6 to 7.14.8 (#647) (6 months ago) <dependabot[bot]>
+* 722593c - :arrow_up: Bump @babel/cli from 7.14.5 to 7.14.8 (#651) (6 months ago) <dependabot[bot]>
+* df92694 - :arrow_up: Bump lint-staged from 11.0.1 to 11.1.1 (#646) (6 months ago) <dependabot[bot]>
+* adb2e96 - (tag: v4.2.0) :bookmark: Bump version to 4.2.0 (6 months ago) <Carlos Cuesta>
+* ee3c0cd - :memo: Update configuration options (6 months ago) <Carlos Cuesta>
+* 7f98178 - 🔧 Add gitmojis url config (#640) (6 months ago) <云游君>
+* e951941 - :arrow_up: Bump jest from 26.6.3 to 27.0.6 (#645) (6 months ago) <dependabot[bot]>
+* 22e182b - :arrow_up: Bump proxy-agent from 4.0.1 to 5.0.0 (#644) (6 months ago) <dependabot[bot]>
+* a94b64b - :arrow_up: Bump lint-staged from 11.0.0 to 11.0.1 (#643) (6 months ago) <dependabot[bot]>
+* 0de084f - :arrow_up: Bump inquirer from 8.1.1 to 8.1.2 (#642) (6 months ago) <dependabot[bot]>
+* 1303972 - :arrow_up: Bump jest-mock-process from 1.4.0 to 1.4.1 (#639) (7 months ago) <dependabot[bot]>
+* b8ca2b8 - :arrow_up: Bump husky from 7.0.0 to 7.0.1 (#638) (7 months ago) <dependabot[bot]>
+* 260ffe4 - :arrow_up: Bump husky from 6.0.0 to 7.0.0 (#634) (7 months ago) <dependabot[bot]>
+* 3d689dd - :arrow_up: Bump pkg from 5.2.1 to 5.3.0 (#633) (7 months ago) <dependabot[bot]>
+* 4bca2e8 - :arrow_up: Bump inquirer from 7.3.3 to 8.1.1 (#629) (7 months ago) <dependabot[bot]>
+* 72e9a0f - :arrow_up: Bump prettier from 2.3.1 to 2.3.2 (#632) (7 months ago) <dependabot[bot]>
+* 9f06235 - :arrow_up: Bump @babel/preset-env from 7.14.5 to 7.14.7 (#631) (7 months ago) <dependabot[bot]>
+* 7a11f44 - :arrow_up: Bump inquirer-autocomplete-prompt from 1.3.0 to 1.4.0 (#628) (7 months ago) <dependabot[bot]>
+* c701c0f - :arrow_up: Bump @babel/preset-flow from 7.13.13 to 7.14.5 (#624) (8 months ago) <dependabot[bot]>
+* e434373 - :arrow_up: Bump @babel/core from 7.14.3 to 7.14.6 (#627) (8 months ago) <dependabot[bot]>
+* 28cfa31 - :arrow_up: Bump @babel/preset-env from 7.14.4 to 7.14.5 (#623) (8 months ago) <dependabot[bot]>
+* 75af1c5 - :arrow_up: Bump ora from 5.4.0 to 5.4.1 (#625) (8 months ago) <dependabot[bot]>
+* 22afcc2 - :arrow_up: Bump glob-parent from 5.1.1 to 5.1.2 (#626) (8 months ago) <dependabot[bot]>
+* e17073d - :arrow_up: Bump @babel/cli from 7.14.3 to 7.14.5 (#621) (8 months ago) <dependabot[bot]>
+* 232d50d - :arrow_up: Bump normalize-url from 4.5.0 to 4.5.1 (#620) (8 months ago) <dependabot[bot]>
+* d87022f - :arrow_up: Bump trim-newlines from 3.0.0 to 3.0.1 (#618) (8 months ago) <dependabot[bot]>
+* 8199935 - :arrow_up: Bump prettier from 2.3.0 to 2.3.1 (#617) (8 months ago) <dependabot[bot]>
+* deca1ff - :arrow_up: Bump execa from 5.0.1 to 5.1.1 (#616) (8 months ago) <dependabot[bot]>
+* a6bdae0 - :arrow_up: Bump @babel/preset-env from 7.14.2 to 7.14.4 (#615) (8 months ago) <dependabot[bot]>
+* 305552a - :arrow_up: Bump pkg from 5.2.0 to 5.2.1 (#614) (8 months ago) <dependabot[bot]>
+* 17277c9 - :arrow_up: Bump execa from 5.0.0 to 5.0.1 (#613) (8 months ago) <dependabot[bot]>
+* 1a5bbef - :arrow_up: Bump ws from 7.3.1 to 7.4.6 (#612) (8 months ago) <dependabot[bot]>
+* bcf607f - :arrow_up: Bump @babel/core from 7.14.2 to 7.14.3 (#609) (8 months ago) <dependabot[bot]>
+* bbbb08a - :arrow_up: Bump pkg from 5.1.0 to 5.2.0 (#608) (8 months ago) <dependabot[bot]>
+* 47d3b00 - :arrow_up: Bump @babel/cli from 7.13.16 to 7.14.3 (#607) (8 months ago) <dependabot[bot]>
+* 416ad44 - :arrow_up: Bump @babel/preset-env from 7.14.1 to 7.14.2 (#605) (9 months ago) <dependabot[bot]>
+* 7994463 - :arrow_up: Bump @babel/core from 7.14.0 to 7.14.2 (#604) (9 months ago) <dependabot[bot]>
+* c18b188 - (tag: v4.1.0) 🔖 Bump version (9 months ago) <Carlos Cuesta>
+* 65354da - :arrow_up: Bump lint-staged from 10.5.4 to 11.0.0 (#602) (9 months ago) <dependabot[bot]>
+* 8eab8fb - :arrow_up: Bump prettier from 2.2.1 to 2.3.0 (#600) (9 months ago) <dependabot[bot]>
+* bf38c65 - Add proxy support for node-fetch (#603) (9 months ago) <Vito Giarrusso>
+* 57ccc5f - :arrow_up: Bump @babel/preset-env from 7.14.0 to 7.14.1 (#598) (9 months ago) <dependabot[bot]>
+* 2bf3a16 - :arrow_up: Bump hosted-git-info from 2.4.2 to 2.8.9 (#597) (9 months ago) <dependabot[bot]>
+* 9acfc51 - :arrow_up: Bump lodash from 4.17.19 to 4.17.21 (#596) (9 months ago) <dependabot[bot]>
+* fab6fd7 - :arrow_up: Bump @babel/core from 7.13.16 to 7.14.0 (#594) (9 months ago) <dependabot[bot]>
+* 955149e - :arrow_up: Bump @babel/preset-env from 7.13.15 to 7.14.0 (#595) (9 months ago) <dependabot[bot]>
+* 7bc14eb - :arrow_up: Bump pkg from 5.0.0 to 5.1.0 (#593) (9 months ago) <dependabot[bot]>
+* e5332ca - (tag: v4.0.0) :bookmark: Bump version (9 months ago) <Carlos Cuesta>
+* 86af9e0 - :arrow_up: Bump conf from 9.0.2 to 10.0.1 (#584) (9 months ago) <dependabot[bot]>
+* 4222131 - :wrench: Bump minimum Node version to v12 (#591) (9 months ago) <Carlos Cuesta>
+* 08a0aff - :arrow_up: Bump pkg from 4.5.1 to 5.0.0 (#588) (9 months ago) <dependabot[bot]>
+* 128e194 - :arrow_up: Bump chalk from 4.1.0 to 4.1.1 (#587) (9 months ago) <dependabot[bot]>
+* c4ef4d1 - :arrow_up: Bump @babel/cli from 7.13.14 to 7.13.16 (#586) (9 months ago) <dependabot[bot]>
+* 53c6360 - (tag: v3.4.2) :bookmark: Bump version (9 months ago) <Carlos Cuesta>
+* 4be3313 - :bug: Add try/catch to getAbsoluteHooksPath (#590) (9 months ago) <Carlos Cuesta>
+* a065b4c - :arrow_up: Bump @babel/core from 7.13.15 to 7.13.16 (#585) (9 months ago) <dependabot[bot]>
+* 3e8eb9f - :wrench: Automate npm publish with GitHub Actions (#583) (9 months ago) <Carlos Cuesta>
+* 1876c3a - (tag: v3.4.1) :bookmark: Bump version (9 months ago) <Carlos Cuesta>
+* 85174c6 - (tag: v3.4.0) :bookmark: Bump version (10 months ago) <Carlos Cuesta>
+* cd7d97d - :sparkles: Support custom hooks directory (#578) (10 months ago) <Florent SCHILDKNECHT>
+* 42bdba4 - :arrow_up: Bump @babel/preset-env from 7.13.12 to 7.13.15 (#576) (10 months ago) <dependabot[bot]>
+* 2e76dc9 - :arrow_up: Bump @babel/core from 7.13.14 to 7.13.15 (#575) (10 months ago) <dependabot[bot]>
+* 2c5b991 - :arrow_up: Bump @babel/cli from 7.13.10 to 7.13.14 (#574) (10 months ago) <dependabot[bot]>
+* 4004318 - :arrow_up: Bump @babel/core from 7.13.13 to 7.13.14 (#573) (10 months ago) <dependabot[bot]>
+* c262529 - :arrow_up: Bump husky from 5.2.0 to 6.0.0 (#572) (10 months ago) <dependabot[bot]>
+* b27cc0a - :arrow_up: Bump y18n from 4.0.0 to 4.0.1 (#571) (10 months ago) <dependabot[bot]>
+* d728ec4 - :arrow_up: Bump @babel/preset-env from 7.13.10 to 7.13.12 (#570) (10 months ago) <dependabot[bot]>
+* a69014c - :arrow_up: Bump @babel/core from 7.13.10 to 7.13.13 (#569) (10 months ago) <dependabot[bot]>
+* a3957f4 - :arrow_up: Bump @babel/preset-flow from 7.12.13 to 7.13.13 (#568) (10 months ago) <dependabot[bot]>
+* 1789da9 - :arrow_up: Bump pkg from 4.4.9 to 4.5.1 (#567) (10 months ago) <dependabot[bot]>
+* 86f0c69 - :arrow_up: Bump ora from 5.3.0 to 5.4.0 (#566) (10 months ago) <dependabot[bot]>
+* 8ef7c07 - :arrow_up: Bump husky from 5.1.3 to 5.2.0 (#565) (10 months ago) <dependabot[bot]>
+* b6046eb - (tag: v3.3.1) :bookmark: Bump version to 3.3.1 (11 months ago) <Carlos Cuesta>
+* 4f13eb0 - :sparkles: Force isGlobal option to updateNotifier (#564) (11 months ago) <Carlos Cuesta>
+* 29281de - :arrow_up: Bump @babel/cli from 7.13.0 to 7.13.10 (#562) (11 months ago) <dependabot[bot]>
+* 7ba9473 - :arrow_up: Bump @babel/core from 7.13.8 to 7.13.10 (#563) (11 months ago) <dependabot[bot]>
+* 558184e - :arrow_up: Bump @babel/preset-env from 7.13.9 to 7.13.10 (#561) (11 months ago) <dependabot[bot]>
+* 60fdfbb - :arrow_up: Bump @babel/preset-env from 7.13.8 to 7.13.9 (#560) (11 months ago) <dependabot[bot]>
+* 6a24dc6 - :wrench: Migrate to Husky v5 (#559) (11 months ago) <Carlos Cuesta>
+* c172c3c - :arrow_up: Bump husky from 5.1.0 to 5.1.3 (#558) (11 months ago) <dependabot[bot]>
+* 078edc8 - :arrow_up: Bump @babel/cli from 7.12.17 to 7.13.0 (#557) (11 months ago) <dependabot[bot]>
+* 016b597 - :arrow_up: Bump @babel/core from 7.12.17 to 7.13.8 (#555) (11 months ago) <dependabot[bot]>
+* 4db3630 - :arrow_up: Bump @babel/preset-env from 7.12.17 to 7.13.8 (#554) (11 months ago) <dependabot[bot]>
+* 447bb99 - (tag: v3.3.0) :bookmark: Bump version to 3.3.0 (11 months ago) <Carlos Cuesta>
+* b7f3d51 - :sparkles: Use gitmoji API instead of raw.githubusercontent.com (#553) (11 months ago) <Carlos Cuesta>
+* 5db0eef - :arrow_up: Bump @babel/core from 7.12.16 to 7.12.17 (#551) (11 months ago) <dependabot[bot]>
+* d2b470d - :arrow_up: Bump husky from 5.0.9 to 5.1.0 (#549) (11 months ago) <dependabot[bot]>
+* 3e63c04 - :arrow_up: Bump @babel/cli from 7.12.16 to 7.12.17 (#550) (11 months ago) <dependabot[bot]>
+* 5155fa4 - :arrow_up: Bump @babel/preset-env from 7.12.16 to 7.12.17 (#548) (11 months ago) <dependabot[bot]>
+* 5917150 - :arrow_up: Bump husky from 4.3.8 to 5.0.9 (#547) (12 months ago) <dependabot[bot]>
+* 6c92e2f - :arrow_up: Bump @babel/cli from 7.12.13 to 7.12.16 (#546) (12 months ago) <dependabot[bot]>
+* dc0e792 - :arrow_up: Bump conf from 9.0.1 to 9.0.2 (#545) (12 months ago) <dependabot[bot]>
+* 3cf89be - :arrow_up: Bump @babel/core from 7.12.13 to 7.12.16 (#544) (12 months ago) <dependabot[bot]>
+* 15b8b8c - :arrow_up: Bump @babel/preset-env from 7.12.13 to 7.12.16 (#543) (12 months ago) <dependabot[bot]>
+* b198860 - :arrow_up: Bump @babel/preset-flow from 7.12.1 to 7.12.13 (#542) (12 months ago) <dependabot[bot]>
+* bd5eda4 - :arrow_up: Bump conf from 9.0.0 to 9.0.1 (#541) (12 months ago) <dependabot[bot]>
+* 16f3720 - :arrow_up: Bump lint-staged from 10.5.3 to 10.5.4 (#540) (12 months ago) <dependabot[bot]>
+* 915e15e - :arrow_up: Bump @babel/preset-env from 7.12.11 to 7.12.13 (#539) (12 months ago) <dependabot[bot]>
+* 7ac7565 - :arrow_up: Bump @babel/cli from 7.12.10 to 7.12.13 (#538) (12 months ago) <dependabot[bot]>
+* 3afaa40 - :arrow_up: Bump @babel/core from 7.12.10 to 7.12.13 (#537) (12 months ago) <dependabot[bot]>
+* 9c8ba88 - :arrow_up: Bump update-notifier from 5.0.1 to 5.1.0 (#535) (12 months ago) <dependabot[bot]>
+* 8c08155 - :arrow_up: Bump conf from 8.0.0 to 9.0.0 (#532) (1 year ago) <dependabot[bot]>
+* df5fc01 - :arrow_up: Bump ora from 5.2.0 to 5.3.0 (#531) (1 year ago) <dependabot[bot]>
+* ca4c707 - :arrow_up: Bump husky from 4.3.7 to 4.3.8 (#530) (1 year ago) <dependabot[bot]>
+* 97d7f41 - :arrow_up: Bump fuse.js from 6.4.5 to 6.4.6 (#527) (1 year, 1 month ago) <dependabot[bot]>
+* 4ae801f - :arrow_up: Bump husky from 4.3.6 to 4.3.7 (#528) (1 year, 1 month ago) <dependabot[bot]>
+* 5b19d30 - :arrow_up: Bump meow from 8.1.0 to 9.0.0 (#526) (1 year, 1 month ago) <dependabot[bot]>
+* 82e0b9d - :arrow_up: Bump conf from 7.1.2 to 8.0.0 (#525) (1 year, 1 month ago) <dependabot[bot]>
+* 72a1d3a - :arrow_up: Bump fuse.js from 6.4.3 to 6.4.5 (#524) (1 year, 1 month ago) <dependabot[bot]>
+* 85827ed - :arrow_up: Bump ora from 5.1.0 to 5.2.0 (#523) (1 year, 1 month ago) <dependabot[bot]>
+* 1606272 - (tag: v3.2.18) :bookmark: Bump version (1 year, 1 month ago) <Carlos Cuesta>
+* 771cc5e - :wrench: Adjust author.name field (1 year, 1 month ago) <Carlos Cuesta>
+* b35c6b9 - (tag: v3.2.17) :bookmark: Bump version (1 year, 1 month ago) <Carlos Cuesta>
+* b69303a - :wrench: Fix author package.json field (#521) (1 year, 1 month ago) <Carlos Cuesta>
+* cd05bfe - :arrow_up: Bump meow from 8.0.0 to 8.1.0 (#520) (1 year, 1 month ago) <dependabot[bot]>
+* cf7c648 - :arrow_up: Bump node-notifier from 8.0.0 to 8.0.1 (#519) (1 year, 1 month ago) <dependabot[bot]>
+* c0bfcc3 - :arrow_up: Bump @babel/preset-env from 7.12.10 to 7.12.11 (#517) (1 year, 1 month ago) <dependabot[bot]>
+* ebcd99f - :wrench: Update release workflow release_name (1 year, 1 month ago) <Carlos Cuesta>
+* 069bd60 - (tag: v3.2.16) :bookmark: Bump version to v3.2.16 (1 year, 1 month ago) <Carlos Cuesta>
+* 5b728e5 - :sparkles: Implement hook abort on amend (#510) (1 year, 1 month ago) <jeremiec>
+* e891ad3 - :memo: Improve search docs (1 year, 1 month ago) <Carlos Cuesta>
+* 3d3fa09 - :arrow_up: Bump @babel/core from 7.12.9 to 7.12.10 (#515) (1 year, 2 months ago) <dependabot[bot]>
+* 8766282 - :arrow_up: Bump @babel/cli from 7.12.8 to 7.12.10 (#514) (1 year, 2 months ago) <dependabot[bot]>
+* 9f1a1ed - :arrow_up: Bump husky from 4.3.0 to 4.3.6 (#513) (1 year, 2 months ago) <dependabot[bot]>
+* ca03bf8 - :arrow_up: Bump @babel/preset-env from 7.12.7 to 7.12.10 (#512) (1 year, 2 months ago) <dependabot[bot]>
+* f2261e4 - :arrow_up: Bump ini from 1.3.4 to 1.3.7 (#511) (1 year, 2 months ago) <dependabot[bot]>
+* ba793ec - (tag: v3.2.15) :bookmark: Bump version to 3.2.15 (1 year, 2 months ago) <Carlos Cuesta>
+* caf87bd - :bug: Revert "Implement hook abort on amend (#507)" (1 year, 2 months ago) <Carlos Cuesta>
+* e904eb3 - (tag: v3.2.14) :bookmark: Bump version to 3.2.14 (1 year, 2 months ago) <Carlos Cuesta>
+* 62be69f - :wrench: Remove installMessage util (1 year, 2 months ago) <Carlos Cuesta>
+* 420ca72 - :sparkles: Implement hook abort on amend (#507) (1 year, 2 months ago) <jeremiec>
+* 394de23 - :wrench: Update release workflow action versions (1 year, 2 months ago) <Carlos Cuesta>
+* e55b9f7 - (tag: v.3.2.13) :bookmark: Bump version to 3.2.13 (1 year, 2 months ago) <Carlos Cuesta>
+* 1f9b6cb - :wrench: Update release action event workflow (1 year, 2 months ago) <Carlos Cuesta>
+* 92fa444 - :arrow_up: Bump execa from 4.1.0 to 5.0.0 (#505) (1 year, 2 months ago) <dependabot[bot]>
+* 14a160d - :arrow_up: Bump lint-staged from 10.5.2 to 10.5.3 (#504) (1 year, 2 months ago) <dependabot[bot]>
+* 66170e1 - :memo: Write down configuration options (#503) (1 year, 2 months ago) <Carlos Cuesta>
+* 3ece76e - :arrow_up: Bump @babel/core from 7.12.7 to 7.12.9 (#500) (1 year, 2 months ago) <dependabot[bot]>
+* 12fb23a - :arrow_up: Bump @babel/cli from 7.12.7 to 7.12.8 (#499) (1 year, 2 months ago) <dependabot[bot]>
+* 36718f3 - :arrow_up: Bump lint-staged from 10.5.1 to 10.5.2 (#498) (1 year, 2 months ago) <dependabot[bot]>
+* 79c3a8d - :arrow_up: Bump prettier from 2.2.0 to 2.2.1 (#501) (1 year, 2 months ago) <dependabot[bot]>
+* bf2eee1 - :arrow_up: Bump @babel/preset-env from 7.12.1 to 7.12.7 (#495) (1 year, 2 months ago) <dependabot[bot]>
+* 9df3ea8 - :arrow_up: Bump prettier from 2.1.2 to 2.2.0 (#496) (1 year, 2 months ago) <dependabot[bot]>
+* 08dacdd - :arrow_up: Bump @babel/core from 7.12.3 to 7.12.7 (#494) (1 year, 2 months ago) <dependabot[bot]>
+* d520ead - :arrow_up: Bump @babel/cli from 7.12.1 to 7.12.7 (#493) (1 year, 2 months ago) <dependabot[bot]>
+* 8228432 - :arrow_up: Bump jest from 26.6.1 to 26.6.3 (#491) (1 year, 3 months ago) <dependabot[bot]>
+* 0c0f679 - :arrow_up: Bump codecov from 3.8.0 to 3.8.1 (#490) (1 year, 3 months ago) <dependabot[bot]>
+* fdd2b34 - :wrench: Migrate from Travis-CI to GitHub Actions (#489) (1 year, 3 months ago) <Carlos Cuesta>
+* 4f5882d - :arrow_up: Bump update-notifier from 5.0.0 to 5.0.1 (#483) (1 year, 3 months ago) <dependabot[bot]>
+* d14e46e - :arrow_up: Bump lint-staged from 10.4.2 to 10.5.1 (#487) (1 year, 3 months ago) <dependabot[bot]>
+* efabea2 - :arrow_up: Bump inquirer-autocomplete-prompt from 1.2.0 to 1.3.0 (#486) (1 year, 3 months ago) <dependabot[bot]>
+* 05b328f - :arrow_up: Bump fuse.js from 6.4.2 to 6.4.3 (#485) (1 year, 3 months ago) <dependabot[bot]>
+* dd20ec2 - :arrow_up: Bump execa from 4.0.3 to 4.1.0 (#484) (1 year, 3 months ago) <dependabot[bot]>
+* be79918 - :arrow_up: Bump meow from 7.1.1 to 8.0.0 (#482) (1 year, 3 months ago) <dependabot[bot]>
+* 05484ec - :arrow_up: Bump jest from 26.6.0 to 26.6.1 (#481) (1 year, 3 months ago) <dependabot[bot]>
+* 6fe41b9 - :arrow_up: Bump jest from 25.1.0 to 26.6.0 (#480) (1 year, 3 months ago) <dependabot[bot]>
+* 02737d8 - :arrow_up: Bump fuse.js from 6.4.1 to 6.4.2 (#478) (1 year, 3 months ago) <dependabot[bot]>
+* 53e20c5 - :arrow_up: Bump jest-mock-process from 1.3.2 to 1.4.0 (#477) (1 year, 3 months ago) <dependabot[bot]>
+* 261fc94 - 🔧 Create Dependabot config file (#476) (1 year, 3 months ago) <dependabot-preview[bot]>
+* d5e7378 - :arrow_up: Bump @babel/preset-env from 7.11.5 to 7.12.1 (#473) (1 year, 3 months ago) <dependabot-preview[bot]>
+* 0e4be72 - :arrow_up: Bump lint-staged from 10.4.0 to 10.4.2 (#471) (1 year, 3 months ago) <dependabot-preview[bot]>
+* 2493ca1 - :arrow_up: Bump @babel/preset-flow from 7.10.4 to 7.12.1 (#475) (1 year, 3 months ago) <dependabot-preview[bot]>
+* e2d6212 - :arrow_up: Bump @babel/cli from 7.11.6 to 7.12.1 (#474) (1 year, 3 months ago) <dependabot-preview[bot]>
+* f86dbd7 - :arrow_up: Bump @babel/core from 7.11.6 to 7.12.3 (#472) (1 year, 3 months ago) <dependabot-preview[bot]>
+* 93d3b43 - :arrow_up: Bump codecov from 3.7.2 to 3.8.0 (#470) (1 year, 4 months ago) <dependabot-preview[bot]>
+* 4935131 - :arrow_up: Bump inquirer-autocomplete-prompt from 1.1.0 to 1.2.0 (#467) (1 year, 4 months ago) <dependabot-preview[bot]>
+* 8cf37d6 - :arrow_up: Bump update-notifier from 4.1.1 to 5.0.0 (#466) (1 year, 4 months ago) <dependabot-preview[bot]>
+* 81f4ec8 - :arrow_up: Bump lint-staged from 10.3.0 to 10.4.0 (#463) (1 year, 4 months ago) <dependabot-preview[bot]>
+* b19386d - :arrow_up: Bump prettier from 2.1.1 to 2.1.2 (#462) (1 year, 4 months ago) <dependabot-preview[bot]>
+* 2e33fd6 - (tag: v3.2.12) :bookmark: Bump version to 3.11.2 (1 year, 4 months ago) <Carlos Cuesta>
+* fe43861 - ✨ Cancel hook on rebase (#445) (1 year, 4 months ago) <jeremiec>
+* 9aded2e - (tag: v3.2.11) :bookmark: Bump version to 3.2.11 (1 year, 4 months ago) <Carlos Cuesta>
+* a0301c0 - ✨ Prefill title and message in hook mode (#446) (1 year, 4 months ago) <Adrien Cacciaguerra>
+* a32d7fa - :bug: Fix isHookCreated util (#461) (1 year, 4 months ago) <Carlos Cuesta>
+* 1480c81 - :arrow_up: Bump husky from 4.2.3 to 4.3.0 (#459) (1 year, 5 months ago) <dependabot-preview[bot]>
+* 6466455 - ⬆️ Bump prettier from 1.19.1 to 2.1.1 (#449) (1 year, 5 months ago) <dependabot-preview[bot]>
+* ac524d6 - :arrow_up: Bump ora from 5.0.0 to 5.1.0 (#458) (1 year, 5 months ago) <dependabot-preview[bot]>
+* b8c2a51 - :arrow_up: Bump node-fetch from 2.6.0 to 2.6.1 (#454) (1 year, 5 months ago) <dependabot-preview[bot]>
+* 0df8796 - :arrow_up: Bump @babel/core from 7.11.4 to 7.11.6 (#455) (1 year, 5 months ago) <dependabot-preview[bot]>
+* 2c1acef - :arrow_up: Bump @babel/preset-env from 7.11.0 to 7.11.5 (#457) (1 year, 5 months ago) <dependabot-preview[bot]>
+* 8664da4 - :arrow_up: Bump @babel/cli from 7.10.5 to 7.11.6 (#456) (1 year, 5 months ago) <dependabot-preview[bot]>
+* b4b1f40 - :arrow_up: Bump lint-staged from 10.2.13 to 10.3.0 (#453) (1 year, 5 months ago) <dependabot-preview[bot]>
+* bffa0a0 - :arrow_up: Bump meow from 7.1.0 to 7.1.1 (#451) (1 year, 5 months ago) <dependabot-preview[bot]>
+* 179afe4 - :arrow_up: Bump inquirer-autocomplete-prompt from 1.0.2 to 1.1.0 (#448) (1 year, 5 months ago) <dependabot-preview[bot]>
+* e9dcfec - :arrow_up: Bump lint-staged from 10.2.11 to 10.2.13 (#450) (1 year, 5 months ago) <dependabot-preview[bot]>
+* d0676d2 - :wrench: Ignore package-lock.json (1 year, 5 months ago) <Carlos Cuesta>
+* 3ab9294 - :arrow_up: Bump @babel/core from 7.11.1 to 7.11.4 (#447) (1 year, 5 months ago) <dependabot-preview[bot]>
+* 7ae7aaf - (tag: v3.2.10) :bookmark: Bump version (1 year, 5 months ago) <Carlos Cuesta>
+* 3eec2a6 - :bug: Revert #415 (1 year, 5 months ago) <Carlos Cuesta>
+* d4b856a - :arrow_up: Bump update-notifier from 4.1.0 to 4.1.1 (#443) (1 year, 5 months ago) <dependabot-preview[bot]>
+* 1a6bfd5 - :arrow_up: Bump conf from 7.1.1 to 7.1.2 (#442) (1 year, 5 months ago) <dependabot-preview[bot]>
+* f5a8f45 - :memo: Add brew as an install method (#441) (1 year, 5 months ago) <jevangelista-quizlet>
+* 64f17aa - (tag: v3.2.9) :bookmark: Bump version to 3.2.9 (1 year, 6 months ago) <Carlos Cuesta>
+* f218280 - :arrow_up: Bump meow (#440) (1 year, 6 months ago) <Carlos Cuesta>
+* c8ff18d - :arrow_up: Bump fuse.js (#439) (1 year, 6 months ago) <Carlos Cuesta>
+* 3aaadcd - :arrow_up: Bump path-exists (#438) (1 year, 6 months ago) <Carlos Cuesta>
+* fac4984 - (tag: v3.2.8) :bookmark: Bump version to 3.2.8 (1 year, 6 months ago) <Carlos Cuesta>
+* bd6db4f - ✨  Cancel hook when a git message is already set (#415) (1 year, 6 months ago) <jeremiec>
+* 5f4116f - :bug: Fix release action (1 year, 6 months ago) <Carlos Cuesta>
+* de31fc4 - (tag: v3.2.7) :bookmark: Bump version to 3.2.7 (1 year, 6 months ago) <Carlos Cuesta>
+* d26659f - ❤️  Add postinstall messsage (#436) (1 year, 6 months ago) <Carlos Cuesta>
+* 6fb1947 - :arrow_up: Bump ora from 4.0.5 to 5.0.0 (#435) (1 year, 6 months ago) <dependabot-preview[bot]>
+* eb80ef6 - :arrow_up: Bump @babel/core from 7.11.0 to 7.11.1 (#434) (1 year, 6 months ago) <dependabot-preview[bot]>
+* 8ddf473 - :memo: Update Travis-CI badge (1 year, 6 months ago) <Carlos Cuesta>
+* 78ba882 - :arrow_up: Bump @babel/preset-env from 7.10.4 to 7.11.0 (#431) (1 year, 6 months ago) <dependabot-preview[bot]>
+* 4b2816f - :arrow_up: Bump @babel/core from 7.10.5 to 7.11.0 (#432) (1 year, 6 months ago) <dependabot-preview[bot]>
+* d62b40f - :arrow_up: Bump inquirer from 7.3.2 to 7.3.3 (#429) (1 year, 6 months ago) <dependabot-preview[bot]>
+* d1950d9 - :arrow_up: Bump codecov from 3.7.1 to 3.7.2 (#428) (1 year, 6 months ago) <dependabot-preview[bot]>
+* fee0452 - :arrow_up: Bump conf from 7.0.1 to 7.1.1 (#423) (1 year, 6 months ago) <dependabot-preview[bot]>
+* c8dad2f - :arrow_up: Bump ora from 4.0.3 to 4.0.5 (#424) (1 year, 6 months ago) <dependabot-preview[bot]>
+* b8f5f05 - :arrow_up: Bump codecov from 3.6.5 to 3.7.1 (#426) (1 year, 6 months ago) <dependabot-preview[bot]>
+* 2aefdf0 - :arrow_up: Bump @babel/cli from 7.10.4 to 7.10.5 (#425) (1 year, 6 months ago) <dependabot-preview[bot]>
+* 41429ce - :arrow_up: Bump @babel/core from 7.10.3 to 7.10.5 (#421) (1 year, 6 months ago) <dependabot-preview[bot]>
+* f44d968 - :arrow_up: Bump inquirer from 7.2.0 to 7.3.2 (#420) (1 year, 6 months ago) <dependabot-preview[bot]>
+* 4fb97f6 - :arrow_up: Bump conf from 6.2.1 to 7.0.1 (#413) (1 year, 6 months ago) <dependabot-preview[bot]>
+* a6d0db5 - :arrow_up: Bump @babel/preset-flow from 7.10.1 to 7.10.4 (#409) (1 year, 6 months ago) <dependabot-preview[bot]>
+* 8131b44 - :arrow_up: Bump execa from 4.0.2 to 4.0.3 (#416) (1 year, 6 months ago) <dependabot-preview[bot]>
+* 565ff91 - :arrow_up: Bump lodash from 4.17.15 to 4.17.19 (#419) (1 year, 6 months ago) <dependabot[bot]>
+* 2ead8eb - :arrow_up: Bump @babel/preset-env from 7.10.3 to 7.10.4 (#411) (1 year, 6 months ago) <dependabot-preview[bot]>
+* 219cd18 - :arrow_up: Bump @babel/cli from 7.10.3 to 7.10.4 (#408) (1 year, 6 months ago) <dependabot-preview[bot]>
+* 5bcbc0b - :memo: Update ISSUE_TEMPLATE.md (#407) (1 year, 7 months ago) <David Mears>
+* 4aeb069 - :arrow_up: Bump pkg from 4.4.8 to 4.4.9 (#406) (1 year, 7 months ago) <dependabot-preview[bot]>
+* 8c11f16 - :arrow_up: Bump @babel/cli from 7.10.1 to 7.10.3 (#400) (1 year, 7 months ago) <dependabot-preview[bot]>
+* 9ed44fb - :arrow_up: Bump @babel/core from 7.10.2 to 7.10.3 (#399) (1 year, 7 months ago) <dependabot-preview[bot]>
+* 4af3755 - :arrow_up: Bump @babel/preset-env from 7.10.2 to 7.10.3 (#398) (1 year, 7 months ago) <dependabot-preview[bot]>
+* cc5e42b - :arrow_up: Bump lint-staged from 10.2.10 to 10.2.11 (#402) (1 year, 7 months ago) <dependabot-preview[bot]>
+* d272a4d - :memo: Update Travis-CI badge link (1 year, 7 months ago) <Carlos Cuesta>
+* e00fd23 - (tag: v3.2.6) :bookmark: Bump version (1 year, 7 months ago) <Carlos Cuesta>
+* fdbdb92 - :arrow_up: Bump chalk from 3.0.0 to 4.1.0 (#394) (1 year, 7 months ago) <dependabot-preview[bot]>
+* cdd97f9 - :arrow_up: Bump lint-staged from 10.0.8 to 10.2.10 (#392) (1 year, 7 months ago) <dependabot-preview[bot]>
+* fa88fdc - :arrow_up: Bump inquirer from 7.1.0 to 7.2.0 (#393) (1 year, 7 months ago) <dependabot-preview[bot]>
+* 54302b9 - :bug: Fix release github action workflow (1 year, 8 months ago) <Carlos Cuesta>
+* d3b1cb4 - (tag: v3.2.5) :bookmark: Bump version (1 year, 8 months ago) <Carlos Cuesta>
+* c982294 - 👷 Add binary build & release on GitHub (#388) (1 year, 8 months ago) <Jake>
+* d14bb01 - :arrow_up: Bump babel dependencies (#391) (1 year, 8 months ago) <Carlos Cuesta>
+* 72d9890 - (tag: v3.2.4) :bookmark: Bump version (1 year, 9 months ago) <Carlos Cuesta>
+* c034f46 - ✨ Handle Sigint for hook mode (#352) (1 year, 9 months ago) <jeremiec>
+* 18869c6 - 💬 Correcting issue template (#333) (1 year, 11 months ago) <Andrés>
+* c668e77 - (tag: v3.2.3) :ambulance: Revert hook content changes' (1 year, 11 months ago) <Carlos Cuesta>
+* ed79544 - (tag: v3.2.2) :bookmark: Bump version to 3.2.2 (1 year, 11 months ago) <Carlos Cuesta>
+* 6d54b3a - :arrow_up: Bump inquirer from 7.0.4 to 7.1.0 (#327) (1 year, 11 months ago) <dependabot-preview[bot]>
+* 9cc5b82 - :arrow_up: Bump jest-fetch-mock from 3.0.0 to 3.0.3 (#326) (1 year, 11 months ago) <dependabot-preview[bot]>
+* ae7530a - :arrow_up: Bump lint-staged from 10.0.7 to 10.0.8 (#315) (1 year, 11 months ago) <dependabot-preview[bot]>
+* 5e15059 - :arrow_up: Bump conf from 6.2.0 to 6.2.1 (#312) (1 year, 11 months ago) <dependabot-preview[bot]>
+* 1053388 - 🐛 Fuse.js total weight of 1(#329) (1 year, 11 months ago) <Jack Hillman>
+* dfa9d87 - :arrow_up: Bump @babel/preset-env from 7.8.6 to 7.8.7 (#320) (1 year, 11 months ago) <dependabot-preview[bot]>
+* 9440fa9 - :arrow_up: Bump jest from 24.9.0 to 25.1.0 (#311) (1 year, 11 months ago) <dependabot-preview[bot]>
+* d33a26b - 🐛 Commit hook skips prompt when using verbose flag (#314) (1 year, 11 months ago) <Adriaan Knapen>
+* 26a11d2 - :arrow_up: Bump @babel/core from 7.8.4 to 7.8.7 (#323) (1 year, 11 months ago) <dependabot-preview[bot]>
+* b661204 - :arrow_up: Bump @babel/preset-env from 7.8.4 to 7.8.6 (#318) (1 year, 11 months ago) <dependabot-preview[bot]>
+* 2ea4fdf - :arrow_up: Bump codecov from 3.6.4 to 3.6.5 (#307) (1 year, 11 months ago) <dependabot-preview[bot]>
+* 35362b8 - :arrow_up: Bump update-notifier from 4.0.0 to 4.1.0 (#309) (1 year, 11 months ago) <dependabot-preview[bot]>
+* 18104cd - :arrow_up: Bump jest-mock-process from 1.3.0 to 1.3.2 (#306) (1 year, 11 months ago) <dependabot-preview[bot]>
+* e99751f - :arrow_up: Bump meow from 6.0.0 to 6.0.1 (#310) (1 year, 11 months ago) <dependabot-preview[bot]>
+* a028e93 - :arrow_up: Bump husky from 4.2.1 to 4.2.3 (#308) (1 year, 11 months ago) <dependabot-preview[bot]>
+* 6b3f858 - (tag: v3.2.1) :bookmark: Bump version (2 years ago) <Carlos Cuesta>
+* 2392034 - :arrow_up: Bump inquirer-autocomplete-prompt from 1.0.1 to 1.0.2 (#304) (2 years ago) <dependabot-preview[bot]>
+* 4bbc71a - :bug: Improve fuzzy search (#303) (2 years ago) <Adrien Cacciaguerra>
+* d202b85 - (tag: v3.2.0) :bookmark: Bump version (2 years ago) <Carlos Cuesta>
+* 0a6e97b - :sparkles: Add fuzzy search (#267) (2 years ago) <Adrien Cacciaguerra>
+* 66f9c81 - :arrow_up: Bump codecov from 3.6.1 to 3.6.4 (#301) (2 years ago) <dependabot-preview[bot]>
+* d94e0e7 - :arrow_up: Bump lint-staged from 9.5.0 to 10.0.7 (#300) (2 years ago) <dependabot-preview[bot]>
+* 549d00b - :arrow_up: Bump @babel/preset-env from 7.7.7 to 7.8.4 (#299) (2 years ago) <dependabot-preview[bot]>
+* 48f1b6e - :arrow_up: Bump @babel/cli from 7.7.7 to 7.8.4 (#297) (2 years ago) <dependabot-preview[bot]>
+* ed3260e - :arrow_up: Bump @babel/core from 7.7.7 to 7.8.4 (#298) (2 years ago) <dependabot-preview[bot]>
+* 227fc13 - :arrow_up: Bump inquirer from 7.0.2 to 7.0.4 (#294) (2 years ago) <dependabot-preview[bot]>
+* 86b092c - :arrow_up: Bump husky from 3.1.0 to 4.2.1 (#293) (2 years ago) <dependabot-preview[bot]>
+* 488e5ad - :arrow_up: Bump @babel/preset-flow from 7.7.4 to 7.8.3 (#289) (2 years ago) <dependabot-preview[bot]>
+* dfe4c40 - :arrow_up: Bump jest-mock-process from 1.2.0 to 1.3.0 (#279) (2 years ago) <dependabot-preview[bot]>
+* 540e050 - (tag: v3.1.0) :bookmark: Bump version 3.1.0 (2 years, 1 month ago) <Carlos Cuesta>
+* d8ec4d1 - :bug: Ignore hook if not creating a new commit (#247) (2 years, 1 month ago) <Hugues Lerebours>
+* 81d5939 - 🐛 Check pre-commit-hook for contents (#254) (2 years, 1 month ago) <Rick>
+* 6e1d448 - :arrow_up: Bump inquirer from 7.0.1 to 7.0.2 (#275) (2 years, 1 month ago) <dependabot-preview[bot]>
+* 7deeddb - :arrow_up::lock: Bump handlebars from 4.2.0 to 4.5.3 (#270) (2 years, 1 month ago) <dependabot-preview[bot]>
+* 52cf9c7 - :arrow_up: Bump jest-fetch-mock from 2.1.2 to 3.0.0 (#265) (2 years, 1 month ago) <dependabot-preview[bot]>
+* 9ff2c8a - :arrow_up: Bump @babel/cli from 7.7.5 to 7.7.7 (#264) (2 years, 1 month ago) <dependabot-preview[bot]>
+* 3b5a347 - :arrow_up: Bump execa from 3.4.0 to 4.0.0 (#263) (2 years, 1 month ago) <dependabot-preview[bot]>
+* 649783e - (tag: v3.0.1, tag: 3.0.1) :bookmark: Bump version (2 years, 1 month ago) <Carlos Cuesta>
+* 8c7d383 - :arrow_up: Bump inquirer from 7.0.0 to 7.0.1 (#257) (2 years, 1 month ago) <dependabot-preview[bot]>
+* 91a8a34 - :arrow_up: Bump @babel/core from 7.7.4 to 7.7.7 (#262) (2 years, 1 month ago) <dependabot-preview[bot]>
+* 6bde080 - :arrow_up: Bump @babel/preset-env from 7.7.4 to 7.7.7 (#261) (2 years, 1 month ago) <dependabot-preview[bot]>
+* 9d68526 - :arrow_up: Bump update-notifier from 3.0.1 to 4.0.0 (#259) (2 years, 1 month ago) <dependabot-preview[bot]>
+* b40f2b4 - :arrow_up: Bump meow from 5.0.0 to 6.0.0 (#248) (2 years, 2 months ago) <dependabot-preview[bot]>
+* 05a162d - :arrow_up: Bump @babel/cli from 7.7.4 to 7.7.5 (#252) (2 years, 2 months ago) <dependabot-preview[bot]>
+* 4ae9f60 - :arrow_up: Bump execa from 3.3.0 to 3.4.0 (#245) (2 years, 2 months ago) <dependabot-preview[bot]>
+* 692b8c3 - :arrow_up: Bump lint-staged from 9.4.3 to 9.5.0 (#246) (2 years, 2 months ago) <dependabot-preview[bot]>
+* f0d0858 - :arrow_up: Bump @babel/cli from 7.7.0 to 7.7.4 (#242) (2 years, 2 months ago) <dependabot-preview[bot]>
+* b241e11 - :arrow_up: Bump @babel/preset-env from 7.7.1 to 7.7.4 (#244) (2 years, 2 months ago) <dependabot-preview[bot]>
+* c3d5d60 - :arrow_up: Bump @babel/core from 7.7.2 to 7.7.4 (#243) (2 years, 2 months ago) <dependabot-preview[bot]>
+* fbdae35 - :arrow_up: Bump @babel/preset-flow from 7.0.0 to 7.7.4 (#241) (2 years, 2 months ago) <dependabot-preview[bot]>
+* 3ab9c28 - :arrow_up::lock: Bump https-proxy-agent from 2.2.1 to 2.2.4 (#239) (2 years, 2 months ago) <dependabot-preview[bot]>
+* 97ac089 - :arrow_up: Bump execa from 3.2.0 to 3.3.0 (#238) (2 years, 2 months ago) <dependabot-preview[bot]>
+* 033b471 - :arrow_up: Bump husky from 3.0.9 to 3.1.0 (#237) (2 years, 2 months ago) <dependabot-preview[bot]>
+* 3b4ea33 - :arrow_up: Bump lint-staged from 9.4.2 to 9.4.3 (#236) (2 years, 2 months ago) <dependabot-preview[bot]>
+* d97ac51 - :arrow_up: Bump ora from 4.0.2 to 4.0.3 (#234) (2 years, 2 months ago) <dependabot-preview[bot]>
+* 76ff276 - :arrow_up: Bump @babel/core from 7.6.4 to 7.7.2 (#232) (2 years, 3 months ago) <dependabot-preview[bot]>
+* c87d783 - :arrow_up: Bump conf from 6.1.0 to 6.2.0 (#230) (2 years, 3 months ago) <dependabot-preview[bot]>
+* 47f168c - :arrow_up: Bump @babel/cli from 7.6.4 to 7.7.0 (#229) (2 years, 3 months ago) <dependabot-preview[bot]>
+* 5726321 - :arrow_up: Bump prettier from 1.18.2 to 1.19.1 (#228) (2 years, 3 months ago) <dependabot-preview[bot]>
+* be51fdb - :arrow_up: Bump @babel/preset-env from 7.6.3 to 7.7.1 (#227) (2 years, 3 months ago) <dependabot-preview[bot]>
+* 4bc44cd - :arrow_up: Bump chalk to 3.0.0 (#225) (2 years, 3 months ago) <Carlos Cuesta>
+* f714882 - :sparkles: Set current values as default in configuration command (#221) (2 years, 3 months ago) <Nathan Poirier>
+* 77b4e56 - (tag: v3.0.0) ♻️ Cli refactor (#222) (2 years, 3 months ago) <Carlos Cuesta>
+* 086050d - :heart: Update funding file (2 years, 3 months ago) <Carlos Cuesta>
+* 55f0580 - (tag: v2.2.0) :bookmark: Bump version (2 years, 3 months ago) <Carlos Cuesta>
+* f092d40 - :sparkles: Add scope prompt as an option false by default (#219) (2 years, 3 months ago) <Nathan Poirier>
+* ac9927b - :memo: Update build status badge (2 years, 3 months ago) <Carlos Cuesta>
+* ac805f7 - (tag: v2.1.0) :bookmark: Bump version (2 years, 3 months ago) <Carlos Cuesta>
+* b998b9b - :sparkles: Improve fetching emojis process (#216) (2 years, 3 months ago) <Carlos Cuesta>
+* c70fab0 - :arrow_up: Bump codecov from 3.4.0 to 3.6.1 (#210) (2 years, 4 months ago) <dependabot-preview[bot]>
+* 79f7439 - :sparkles: Add scope prompt (#139) (2 years, 5 months ago) <Rishi Kumar Chawda>
+* 8e0cd76 - (tag: v2.0.0) chore: Bump version to 2.0.0 (2 years, 5 months ago) <Carlos Cuesta>
+* bd9798e - :arrow_up: Bump jest from 24.8.0 to 24.9.0 (#200) (2 years, 5 months ago) <dependabot-preview[bot]>
+* 1ff2420 - :arrow_up::lock: Bump eslint-utils from 1.3.1 to 1.4.2 (#203) (2 years, 5 months ago) <dependabot-preview[bot]>
+* 37b3df0 - ♻️ Reference prompt and setting (#102) (2 years, 5 months ago) <Carlos Cuesta>
+* ba526ba - :arrow_up::lock: Bump mixin-deep from 1.3.1 to 1.3.2 (#204) (2 years, 5 months ago) <dependabot-preview[bot]>
+* dc8cda6 - :arrow_up: Bump inquirer from 6.5.0 to 6.5.2 (#201) (2 years, 5 months ago) <dependabot-preview[bot]>
+* 96dfa85 - :heart: Add sponsor button (2 years, 6 months ago) <Carlos Cuesta>
+* 1cddc99 - (tag: v1.9.4) 🔖 Bump version (2 years, 6 months ago) <Carlos Cuesta>
+* b5992fc - ✨ Set autoAdd config to false (#195) (2 years, 6 months ago) <Sebastian P>
+* d135ffe - (tag: v1.9.3) 🔖 Bump version (2 years, 7 months ago) <Carlos Cuesta>
+* dec7a82 - :arrow_up: Bump inquirer from 6.3.1 to 6.5.0 (#189) (2 years, 7 months ago) <dependabot-preview[bot]>
+* 26c9f85 - :arrow_up: :lock: Bump axios from 0.18.0 to 0.18.1 (#180) (2 years, 7 months ago) <dependabot-preview[bot]>
+* 6c4d050 - :arrow_up::lock: Bump lodash from 4.17.11 to 4.17.14 (#188) (2 years, 7 months ago) <dependabot-preview[bot]>
+* 678cb82 - :arrow_up: Bump jest from 24.7.1 to 24.8.0 (#173) (2 years, 8 months ago) <dependabot-preview[bot]>
+* a0fbb06 - :arrow_up: Bump codecov from 3.3.0 to 3.4.0 (#175) (2 years, 9 months ago) <dependabot[bot]>
+* e4922f9 - :arrow_up: Bump codecov from 3.2.0 to 3.3.0 (#164) (2 years, 9 months ago) <dependabot[bot]>
+* f20f5e9 - :arrow_up: Bump jest from 24.5.0 to 24.7.1 (#167) (2 years, 9 months ago) <dependabot[bot]>
+* ffebd1e - :arrow_up: Bump inquirer from 6.2.2 to 6.3.1 (#170) (2 years, 9 months ago) <dependabot[bot]>
+* 18de8fb - :arrow_up: Bump inquirer from 6.2.1 to 6.2.2 (#156) (2 years, 10 months ago) <dependabot[bot]>
+* fd38aa8 - :arrow_up: Bump codecov from 3.1.0 to 3.2.0 (#159) (2 years, 10 months ago) <dependabot[bot]>
+* 2d78d41 - :arrow_up: Bump chalk from 2.4.1 to 2.4.2 (#151) (2 years, 10 months ago) <dependabot[bot]>
+* 23eccd3 - :arrow_up: Bump jest from 24.3.1 to 24.5.0 (#162) (2 years, 10 months ago) <dependabot[bot]>
+* acf06df - :arrow_up: Bump jest from 24.1.0 to 24.3.1 (#161) (2 years, 11 months ago) <dependabot[bot]>
+* bb6dceb - :arrow_up: Bump jest from 24.0.0 to 24.1.0 (#157) (3 years ago) <dependabot[bot]>
+* 9a55d0a - :arrow_up: Bump inquirer from 6.2.0 to 6.2.1 (#149) (3 years ago) <dependabot[bot]>
+* e4c2700 - :arrow_up: Bump jest from 23.6.0 to 24.0.0 (#155) (3 years ago) <dependabot[bot]>
+* b2d4ea9 - :arrow_up: Bump conf from 2.0.0 to 2.1.0 (#146) (3 years, 2 months ago) <dependabot[bot]>
+* ec6e7a8 - :arrow_up: Bump sshpk from 1.13.1 to 1.15.2 (#142) (3 years, 3 months ago) <dependabot[bot]>
+* 75f5a44 - :arrow_up: Bump merge from 1.2.0 to 1.2.1 (#141) (3 years, 3 months ago) <dependabot[bot]>
+* 186962e - :arrow_up: Bump tough-cookie from 2.3.2 to 2.3.4 (#137) (3 years, 3 months ago) <dependabot[bot]>
+* b6b3555 - :arrow_up: Bump stringstream from 0.0.5 to 0.0.6 (#136) (3 years, 3 months ago) <dependabot[bot]>
+* a792e14 - :arrow_up: Bump debug from 2.6.8 to 2.6.9 (#133) (3 years, 3 months ago) <dependabot[bot]>
+* 54e7224 - :pencil2: Update README (#140) (3 years, 3 months ago) <Thomas Letsch Groch>
+* 775d84b - :bug: Fix unable to create .git/index.lock' (#109) (3 years, 4 months ago) <木偶>
+* 460b794 - (tag: v1.9.2) :bookmark: Bump version to 1.9.2 (3 years, 5 months ago) <Carlos Cuesta>
+* 7c3b115 - ⬆️ Bump standard from 10.0.3 to 12.0.1 (#121) (3 years, 5 months ago) <dependabot[bot]>
+* 6959405 - :arrow_up: Bump inquirer-autocomplete-prompt from 0.12.2 to 1.0.1 (#125) (3 years, 5 months ago) <dependabot[bot]>
+* cb6290d - :arrow_up: Bump codecov from 3.0.0 to 3.1.0 (#122) (3 years, 5 months ago) <dependabot[bot]>
+* 978b554 - :arrow_up: Bump inquirer from 6.0.0 to 6.2.0 (#124) (3 years, 5 months ago) <dependabot[bot]>
+* baadee6 - :arrow_up: Bump update-notifier from 2.3.0 to 2.5.0 (#123) (3 years, 5 months ago) <dependabot[bot]>
+* 73d64e8 - :arrow_up: Bump execa from 0.10.0 to 1.0.0 (#120) (3 years, 5 months ago) <dependabot[bot]>
+* 1833146 - :arrow_up: Update to Jest 23 (#118) (3 years, 5 months ago) <mackie>
+* 979883a - (tag: v1.9.1) :bookmark: Bump 1.9.1 (3 years, 5 months ago) <Carlos Cuesta>
+* a8eaaa6 - :bug: Fix race-condition in hook mode (#103) (3 years, 6 months ago) <Oleksandr Kovalchuk>
+* a63a957 - (tag: v1.9.0) :bookmark: Bump to 1.9.0 (3 years, 8 months ago) <Carlos Cuesta>
+* 8d34d11 - :sparkles: Add characters count for commit title (#101) (3 years, 8 months ago) <Carlos Cuesta>
+* 472110a - :arrow_up: Update dependencies (#100) (3 years, 8 months ago) <Carlos Cuesta>
+* 60e1f55 - :sparkles: Create gitmoji hook from any directory (#90) (3 years, 8 months ago) <Christian Gregg>
+* ae6745d - (tag: v1.8.9) :art: Update HOOK_FILE_CONTENTS (#89) (3 years, 9 months ago) <Christian Gregg>
+* 520c49d - :arrow_up: Update inquirer-autocomplete-prompt (3 years, 9 months ago) <Carlos Cuesta>
+* 81437a0 - (tag: v1.8.8) Bump dependencies (#88) (3 years, 11 months ago) <Carlos Cuesta>
+* 7ca9454 - :memo: Update badges (4 years, 1 month ago) <Carlos Cuesta>
+* df2b49d - :page_facing_up: Update LICENSE (4 years, 1 month ago) <Carlos Cuesta>
+* 75588e7 - (tag: v1.8.7) :bookmark: Bump version (4 years, 2 months ago) <Carlos Cuesta>
+* 04dafba - ♻️ Cli refactor and improvements (#85) (4 years, 2 months ago) <Carlos Cuesta>
+* b5e8139 - (tag: v1.8.5) :hammer: Upgrade meow to 4.0.0 (#84) (4 years, 2 months ago) <Carlos Cuesta>
+* e082be6 - :memo: Update README (4 years, 2 months ago) <Carlos Cuesta>
+* 5fedfd9 - (tag: v1.8.4) :bookmark: Bump version (4 years, 2 months ago) <Carlos Cuesta>
+* e1a10b1 - :arrow_up: Upgrade dependencies (4 years, 2 months ago) <Carlos Cuesta>
+* 0c2d447 - :hammer: Add guard and improve coverage (#79) (4 years, 2 months ago) <Carlos Cuesta>
+* 7212acb - (tag: v1.8.3) :bookmark: Bump version (4 years, 2 months ago) <Carlos Cuesta>
+* ecfc951 - :arrow_up: Upgrade inquirer and inquirer-autocomplete-prompt (4 years, 2 months ago) <Carlos Cuesta>
+* 329c880 - :wrench: Add codecov (#77) (4 years, 3 months ago) <Carlos Cuesta>
+* a50156b - (tag: v1.8.2) :bookmark: Bump version (4 years, 3 months ago) <Carlos Cuesta>
+* fc983e3 - :arrow_up: Update dependencies (4 years, 3 months ago) <Carlos Cuesta>
+* 61abf02 - :bug: Use fs.writeFile and exit the process if success (#75) (4 years, 3 months ago) <Carlos Cuesta>
+* eac2b61 - (tag: v1.8.1) :bookmark: Bump version (4 years, 3 months ago) <Carlos Cuesta>
+* 02e091c - :wrench: Ensure minimum Node version 6 (4 years, 3 months ago) <Carlos Cuesta>
+* f38f1a2 - (tag: v1.8.0) :bookmark: Bump version (4 years, 4 months ago) <Carlos Cuesta>
+* 390a0ff - :art: Improve code style (4 years, 4 months ago) <Carlos Cuesta>
+* 42182b4 - :sparkles: Set signed commits as a global preference (#69) (4 years, 4 months ago) <Kongpon Charanwattanakit>
+* 2911326 - :memo: Add Codesponsor (#70) (4 years, 4 months ago) <Carlos Cuesta>
+* ea99b51 - (tag: v1.7.0) :bookmark: Bump version (4 years, 4 months ago) <Carlos Cuesta>
+* 6fddd56 - 🐛 Fix cli flags (#68) (4 years, 4 months ago) <Carlos Cuesta>
+* 9b712c6 - :art: Update options formatting (#66) (4 years, 4 months ago) <Yahya SayadArbabi>
+* 1c555d0 - (tag: v1.6.1) :bookmark: Bump version (4 years, 5 months ago) <Carlos Cuesta>
+* ed2f890 - :bug: Fix autoAdd config item not persisting (4 years, 5 months ago) <Carlos Cuesta>
+* 29955ae - :white_check_mark: Update gitmojiCli spec and match snapshots (4 years, 6 months ago) <Carlos Cuesta>
+* db0676e - :hammer: Use config at prompts (4 years, 6 months ago) <Carlos Cuesta>
+* fca92fa - (tag: v1.6.0) :bookmark: Bump version to 1.6.0 (4 years, 6 months ago) <Carlos Cuesta>
+* 3211c29 - (tag: v1.5.9) :bug: Fix commit hook creation on Windows (#61) (4 years, 6 months ago) <Carlos Cuesta>
+* f368117 - :hammer: Refactor gitmoji-cli (#60) (4 years, 6 months ago) <Carlos Cuesta>
+* 0fd5276 - :arrow_up: Upgrade execa (4 years, 6 months ago) <Carlos Cuesta>
+* a11d89a - (tag: v1.5.8) :bookmark: Bump version (4 years, 7 months ago) <Carlos Cuesta>
+* 883641e - :bug: Fix commits in sub directories (#55) (4 years, 7 months ago) <Nicolas Marien>
+* 5037058 - (tag: v1.5.7) :arrow_up: Update chalk and inquirer-prompt (4 years, 7 months ago) <Carlos Cuesta>
+* 793cb9e - (tag: v1.5.6) 🔖 Bump version (4 years, 7 months ago) <Carlos Cuesta>
+* 442ed67 - ✨ Add remove hook option (#53) (4 years, 7 months ago) <Thibault Maekelbergh>
+* 10aaf3f - ⬆️ Execa 0.7.0 (4 years, 7 months ago) <Carlos Cuesta>
+* 0543bd7 - :bug: Fix code injection (#54) (4 years, 8 months ago) <Carlos Cuesta>
+* 1975ec6 - :wrench: Upgrade travis node versions (4 years, 8 months ago) <Carlos Cuesta>
+* eae4947 - :bookmark: Bump version (4 years, 8 months ago) <Carlos Cuesta>
+* a4bdd33 - :sparkles: Add emojiFormat to config (#50) (4 years, 8 months ago) <Eduardo San Martin Morote>
+* 9d41174 - (tag: v1.5.4) :bookmark: Bump version (4 years, 8 months ago) <Carlos Cuesta>
+* ba1e53b - :arrow_up: Update conf (4 years, 8 months ago) <Carlos Cuesta>
+* fd2b44e - :sparkles: Add jira reference support (#46) (4 years, 9 months ago) <David Harper>
+* 1fbab27 - (tag: v1.5.3) :bug: Update signing option argument to '-S' (4 years, 9 months ago) <Carlos Cuesta>
+* e160007 - :package: Update yarn.lock (4 years, 9 months ago) <Carlos Cuesta>
+* 60dd443 - (tag: v1.5.2) :bookmark: Bump version (4 years, 10 months ago) <Carlos Cuesta>
+* 82f46b2 - :sparkles: Use stdout (#41) (4 years, 10 months ago) <Wayne Ashley Berry>
+* 1bdd2c2 - (tag: v1.5.1, tag: 1.5.1) :rotating_light: Remove linter errors (4 years, 10 months ago) <Carlos Cuesta>
+* 62835ba - :bug: Set autoadd by default to true if is not set (4 years, 10 months ago) <Carlos Cuesta>
+* ea72462 - :arrow_up: update axios (#38) (4 years, 10 months ago) <Greenkeeper>
+* eb5467c - :arrow_up: update xo (#35) (4 years, 10 months ago) <Greenkeeper>
+* 69007d5 - (tag: v1.5.0) :bookmark: Bump version (4 years, 10 months ago) <Carlos Cuesta>
+* af635fa - :sparkles: Autocomplete for cli (#33) (4 years, 10 months ago) <Gordon>
+* 16dd2e3 - :sparkles: Add breakline when using hook (4 years, 11 months ago) <Carlos Cuesta>
+* 747391a - (tag: 1.4.0) :memo: Update README (4 years, 11 months ago) <Carlos Cuesta>
+* c0b5c23 - :bookmark: Bump version to 1.4.0 (4 years, 11 months ago) <Carlos Cuesta>
+* f3f2188 - :wrench: Update yarn (4 years, 11 months ago) <Carlos Cuesta>
+* 777e9b6 - :fire: Always use gitmoji.code for commit messages (4 years, 11 months ago) <Carlos Cuesta>
+* ebce5ff - :sparkles: Add gitmoji configuration preferences (4 years, 11 months ago) <Carlos Cuesta>
+* 3e3b6a3 - :arrow_up: update-notifier to 2.0.0 (4 years, 11 months ago) <Greenkeeper>
+* 159944e - :hammer: Refactor const names (5 years ago) <Carlos Cuesta>
+* a01e19e - :hammer: Add errorMessage() method (5 years ago) <Carlos Cuesta>
+* 8577e8f - (tag: v1.3.1) :wrench: Update yarn file (5 years ago) <Carlos Cuesta>
+* 1aa34a8 - :memo: Update Readme (5 years ago) <Carlos Cuesta>
+* dc91693 - :bookmark: Bump version to 1.3.1 (5 years ago) <Carlos Cuesta>
+* 7504b21 - :arrow_up: inquirer to 3.0.1 (#27) (5 years ago) <Greenkeeper>
+* 7e3c077 - :arrow_up: Execa to 0.6.0 (5 years ago) <Greenkeeper>
+* 87d321f - :tada: Update License (5 years ago) <Carlos Cuesta>
+* cca2769 - :arrow_up: update inquirer to version 2.0.0 (#21) (5 years ago) <Greenkeeper>
+* 5d550a9 - (tag: v1.3.0) :bookmark: Bump version to 1.3.0 (5 years ago) <Carlos Cuesta>
+* 3f11644 - :sparkles: Update _fetchRemoteEmojis and _createCache methods (5 years ago) <Carlos Cuesta>
+* 00e68e7 - :memo: Add docs for the --update option (5 years ago) <Carlos Cuesta>
+* 318d158 - :art: Update method name (5 years ago) <Carlos Cuesta>
+* 90de82e - :sparkles: Adds offline support (#20) (5 years ago) <Victor Golov>
+*   7a22070 - Merge branch 'master' of https://github.com/carloscuesta/gitmoji-cli (5 years ago) <Carlos Cuesta>
+|\  
+| * 8c00535 - :rotating_light: Fix linter errors (5 years ago) <Carlos Cuesta>
+* | 104eb77 - :bookmark: Bump version to 1.2.2 (5 years ago) <Carlos Cuesta>
+|/  
+* a6caef9 - (tag: v1.2.2) :ambulance: Handle undefined() behaviour (5 years ago) <Carlos Cuesta>
+* d0803bc - (tag: v1.2.1, tag: 1.2.1) 1.2.1 (5 years ago) <Carlos Cuesta>
+* 65ac7a8 - :bug: Fix access mode of prepare-commit-msg (#17) (5 years ago) <Gerard Ryan>
+* 85c99a9 - (tag: v1.2.0) :bookmark: Bump version to 1.2.0 (5 years ago) <Carlos Cuesta>
+* 3c2a41b - :wrench: Update .travis.yml (5 years ago) <Carlos Cuesta>
+* 292610a - :white_check_mark: Add tests for _commit() (5 years ago) <Carlos Cuesta>
+* 8b97e4b - :sparkles: Fix default behaviour and display help if invalid args (#16) (5 years ago) <Lerus Ludovic>
+* 0efdddd - :white_check_mark: Add tests for init() (5 years ago) <Carlos Cuesta>
+* 0897ecb - :rotating_light: Update init() (5 years ago) <Carlos Cuesta>
+* 3f06651 - :art: Update init() method (5 years ago) <Carlos Cuesta>
+* 6368de3 - :wrench: Update .travis.yml (5 years ago) <Carlos Cuesta>
+* 03098fc - :white_check_mark: Add tests (5 years ago) <Carlos Cuesta>
+* fa8ac7b - :memo: Update README (5 years ago) <Carlos Cuesta>
+* 98484fd - Add version option (#15) (5 years ago) <Carlos Cuesta>
+* 49c0ccf - :white_check_mark: Add version() tests (5 years ago) <Carlos Cuesta>
+* 3dce268 - :memo: Add pull request template (5 years ago) <Carlos Cuesta>
+* 28d0c64 - :memo: Add issue template (5 years ago) <Carlos Cuesta>
+* 5e4b2f6 - :memo: Add contributing guidelines (5 years ago) <Carlos Cuesta>
+* 80adb17 - :memo: Update README (5 years ago) <Carlos Cuesta>
+* bc2f9d0 - :rotating_light: Updating xo rules (5 years ago) <Carlos Cuesta>
+* f9f959b - (tag: v1.1.1) :bookmark: Bump version to 1.1.1 (5 years ago) <Carlos Cuesta>
+* 9c821ef - :bug: Fix commit-hook functionality (5 years ago) <Carlos Cuesta>
+* 85c49f9 - :bookmark: Bump version to 1.1.0 (5 years ago) <Carlos Cuesta>
+* 4afe419 - :bug: Change hook filename (5 years ago) <Carlos Cuesta>
+* 0996f66 - :wrench: Add yarn.lock (5 years ago) <Carlos Cuesta>
+* be0a31a - :zap: Improving Search functionality by better matching suggestions (#7) (5 years ago) <Ahmed shamim>
+* ace19f2 - :rotating_light: Fix linter issues (5 years ago) <Carlos Cuesta>
+* a6bf007 - :sparkles: Add init method (5 years ago) <Carlos Cuesta>
+* e209983 - :sparkles: Add : to the question prompts (5 years ago) <Carlos Cuesta>
+* 2476d3d - :white_check_mark: Add better description for tests (5 years ago) <Carlos Cuesta>
+* b7f2ce7 - :memo: Update README (5 years ago) <Carlos Cuesta>
+* aff5825 - :green_heart: Removed linter errors, add mocha to test script. (5 years ago) <Carlos Cuesta>
+* b417b9f - :white_check_mark: Add tests, update isAGitRepo (5 years ago) <Carlos Cuesta>
+* e975bca - :heavy_plus_sign: Add mocha and should as dependencies. (5 years ago) <Carlos Cuesta>
+* ea01ebe - :sparkles: Add isAGitRepo method (5 years ago) <Carlos Cuesta>
+* ab804b0 - :art: Add isCommitSigned method (5 years ago) <Carlos Cuesta>
+* 25e8849 - :sparkles: Add update-notifier (5 years ago) <Carlos Cuesta>
+* 308ca19 - :bug: Update validReference regExp (5 years ago) <Carlos Cuesta>
+* c7756ad - :sparkles: Add better error handling (5 years ago) <Carlos Cuesta>
+* 952fae3 - :wrench: Add files to .npmignore (5 years ago) <Carlos Cuesta>
+* 3be8419 - :wrench: Add .npmignore (5 years ago) <Carlos Cuesta>
+* 436c525 - (tag: v1.0.0) :bookmark: Initial version. (5 years ago) <Carlos Cuesta>
+* f1f0743 - :memo: Update README add LICENSE (5 years ago) <Carlos Cuesta>
+* da17357 - :bug: Fix reference validation value (5 years ago) <Carlos Cuesta>
+* fc7c59c - :memo: Update README (5 years ago) <Carlos Cuesta>
+* c29f9e7 - :fire: Remove logging (5 years ago) <Carlos Cuesta>
+* 47f434f - :memo: Update README (5 years ago) <Carlos Cuesta>
+* ed35705 - :bug: Prevent adding an empty # when no reference issue is provided (5 years ago) <Carlos Cuesta>
+* 29bc9c9 - :memo: Update README (5 years ago) <Carlos Cuesta>
+* 364d5e9 - :bug: Finish _commit method, add validations (5 years ago) <Carlos Cuesta>
+* 6ff147c - :memo: Update README (5 years ago) <Carlos Cuesta>
+* 673d595 - :memo: Update README (5 years ago) <Carlos Cuesta>
+* e42d8ef - :green_heart: Fix CI (5 years ago) <Carlos Cuesta>
+* 97bce2c - :sparkles: Add prompt commit functionality (5 years ago) <Carlos Cuesta>
+* f0e6559 - :sparkles: Add prompting and questions (5 years ago) <Carlos Cuesta>
+* f030374 - :sparkles: Use ES6 Update list option add search option (5 years ago) <Carlos Cuesta>
+* c5b83bb - :art: Improving code structure (5 years ago) <Carlos Cuesta>
+* c873def - :wrench: Add .editorconfig (5 years ago) <Carlos Cuesta>
+* d820dd0 - :construction_worker: Add travis-ci (5 years ago) <Carlos Cuesta>
+* c51657d - :construction: Add xo linting, update --list option (5 years ago) <Carlos Cuesta>
+* c660778 - :construction: Working with the list option (5 years ago) <Carlos Cuesta>
+* 66ea025 - :wrench: Update package.json (5 years ago) <Carlos Cuesta>
+* 1b2532c - :tada: Initial commit (5 years ago) <Carlos Cuesta>
