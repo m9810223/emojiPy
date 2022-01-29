@@ -16,10 +16,9 @@ elif argv[1] in ('-l', '--list'):
     for k, v in emojies.items():
         print(v, k)
 else:
+    print('Faster 🚀 Python 🐍 emojify 🤗')
     print()
     print('Usage:  emojiPy [OPTIONS] [INPUT]')
-    print()
-    print('😱 emojiPy 🐍 ')
     print()
     print('Options:')
     print('    -l, --list     List all emojies.')
