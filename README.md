@@ -4,27 +4,50 @@
 - A faster Python emojify tool.
 - Emoji data source: https://github.com/github/gemoji/blob/master/db/emoji.json
 
-# Build
+---
+
+## Install
+
+- Download & Install
+  ```shell
+  wget https://raw.githubusercontent.com/m9810223/emojiPy/master/emojiPy \
+      -O emojiPy && chmod +x $_ && mv $_ /usr/local/bin
+  ```
+- or Clone & Build & Install
+  ```shell
+  git clone https://github.com/m9810223/emojiPy emojiPy && cd $_
+  make
+  cp emojiPy /usr/local/bin
+  ```
+
+## Speed Comparison
+
+Save `99.43%` of time.
 
 ```shell
-git clone https://github.com/m9810223/emojiPy emojiPy && cd $_
-make
-```
-
-# Install / Update
-
-```shell
-cp emojiPy /usr/local/bin # or any path in $PATH
-```
-
-# Speed Comparison
-
-Save 99.43% of time.
-
-```shell
-cat test.gitlog | time emojify >/dev/null
+cat test.gitlog | time emojify > /dev/null
 # emojify > /dev/null  3.45s user 1.06s system 98% cpu 4.586 total
 
-cat test.gitlog | time emojiPy >/dev/null
+cat test.gitlog | time emojiPy > /dev/null
 # emojiPy > /dev/null  0.02s user 0.00s system 94% cpu 0.026 total
+```
+
+## Alias for `git log`
+
+```shell
+alias glol="git log --graph --pretty='%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%ar) %C(bold blue)<%an>%Creset' --color | emojiPy | less"
+```
+
+## CLI Options
+
+### List All Supported Emojies
+
+```shell
+emojiPy -l
+```
+
+### Help
+
+```shell
+emojiPy -h
 ```
