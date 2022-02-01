@@ -3,7 +3,7 @@ from json import loads
 
 
 def e2u(x):
-    return '\\U{:0>8}'.format(hex(ord(x))[2:])
+    return f'{x!a}'[1:-1]
 
 
 if __name__ == '__main__':
