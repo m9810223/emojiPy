@@ -1,6 +1,6 @@
 # emojiPy
 
-- For use with [gitmoji](https://github.com/carloscuesta/gitmoji-cli), inspired by [emojify](https://github.com/mrowa44/emojify).
+- For use with [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli), inspired by [emojify](https://github.com/mrowa44/emojify).
 - A faster Python emojify tool.
 - Emoji data source: https://github.com/github/gemoji/blob/master/db/emoji.json
 
@@ -8,7 +8,7 @@
 
 ## Install
 
-- Download & Install (recommended)
+- (recommended) Download & Install
   ```shell
   wget https://raw.githubusercontent.com/m9810223/emojiPy/master/emojiPy \
       -O /tmp/emojiPy && chmod +x $_ && cp $_ /usr/local/bin
